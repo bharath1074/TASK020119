@@ -2,7 +2,7 @@
 
 To clone the repository on your computer 
 ```bash
-$ git clone https://github.com/kapilbarad/reactjs-login-form.git
+$ git clone https://github.com/bharath1074/TASK020119
 $ cd reactjs-login-form.git
 ```
 
